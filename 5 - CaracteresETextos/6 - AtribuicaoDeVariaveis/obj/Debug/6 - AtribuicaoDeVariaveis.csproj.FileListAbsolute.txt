@@ -1,0 +1,7 @@
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\6 - AtribuicaoDeVariaveis\bin\Debug\6 - AtribuicaoDeVariaveis.exe.config
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\6 - AtribuicaoDeVariaveis\bin\Debug\6 - AtribuicaoDeVariaveis.exe
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\6 - AtribuicaoDeVariaveis\bin\Debug\6 - AtribuicaoDeVariaveis.pdb
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\6 - AtribuicaoDeVariaveis\obj\Debug\6 - AtribuicaoDeVariaveis.csprojAssemblyReference.cache
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\6 - AtribuicaoDeVariaveis\obj\Debug\6 - AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\6 - AtribuicaoDeVariaveis\obj\Debug\6 - AtribuicaoDeVariaveis.exe
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\6 - AtribuicaoDeVariaveis\obj\Debug\6 - AtribuicaoDeVariaveis.pdb
