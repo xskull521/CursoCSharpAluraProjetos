@@ -1,0 +1,14 @@
+C:\Users\higor.anjos\source\repos\AluraCSharp\P12 - CalculaOInvestimentoALongoPrazo\bin\Debug\P12 - CalculaOInvestimentoALongoPrazo.exe.config
+C:\Users\higor.anjos\source\repos\AluraCSharp\P12 - CalculaOInvestimentoALongoPrazo\bin\Debug\P12 - CalculaOInvestimentoALongoPrazo.exe
+C:\Users\higor.anjos\source\repos\AluraCSharp\P12 - CalculaOInvestimentoALongoPrazo\bin\Debug\P12 - CalculaOInvestimentoALongoPrazo.pdb
+C:\Users\higor.anjos\source\repos\AluraCSharp\P12 - CalculaOInvestimentoALongoPrazo\obj\Debug\P12 - CalculaOInvestimentoALongoPrazo.csprojAssemblyReference.cache
+C:\Users\higor.anjos\source\repos\AluraCSharp\P12 - CalculaOInvestimentoALongoPrazo\obj\Debug\P12 - CalculaOInvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\higor.anjos\source\repos\AluraCSharp\P12 - CalculaOInvestimentoALongoPrazo\obj\Debug\P12 - CalculaOInvestimentoALongoPrazo.exe
+C:\Users\higor.anjos\source\repos\AluraCSharp\P12 - CalculaOInvestimentoALongoPrazo\obj\Debug\P12 - CalculaOInvestimentoALongoPrazo.pdb
+C:\Users\higor.anjos\source\repos\AluraCSharp\CsharpInt\P12 - CalculaOInvestimentoALongoPrazo\bin\Debug\P12 - CalculaOInvestimentoALongoPrazo.exe.config
+C:\Users\higor.anjos\source\repos\AluraCSharp\CsharpInt\P12 - CalculaOInvestimentoALongoPrazo\bin\Debug\P12 - CalculaOInvestimentoALongoPrazo.exe
+C:\Users\higor.anjos\source\repos\AluraCSharp\CsharpInt\P12 - CalculaOInvestimentoALongoPrazo\bin\Debug\P12 - CalculaOInvestimentoALongoPrazo.pdb
+C:\Users\higor.anjos\source\repos\AluraCSharp\CsharpInt\P12 - CalculaOInvestimentoALongoPrazo\obj\Debug\P12 - CalculaOInvestimentoALongoPrazo.csprojAssemblyReference.cache
+C:\Users\higor.anjos\source\repos\AluraCSharp\CsharpInt\P12 - CalculaOInvestimentoALongoPrazo\obj\Debug\P12 - CalculaOInvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\higor.anjos\source\repos\AluraCSharp\CsharpInt\P12 - CalculaOInvestimentoALongoPrazo\obj\Debug\P12 - CalculaOInvestimentoALongoPrazo.exe
+C:\Users\higor.anjos\source\repos\AluraCSharp\CsharpInt\P12 - CalculaOInvestimentoALongoPrazo\obj\Debug\P12 - CalculaOInvestimentoALongoPrazo.pdb

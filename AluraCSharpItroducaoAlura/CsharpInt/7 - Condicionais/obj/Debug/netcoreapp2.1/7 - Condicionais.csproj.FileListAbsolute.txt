@@ -1,0 +1,11 @@
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\obj\Debug\netcoreapp2.1\7 - Condicionais.csprojAssemblyReference.cache
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\obj\Debug\netcoreapp2.1\7 - Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\obj\Debug\netcoreapp2.1\7 - Condicionais.AssemblyInfoInputs.cache
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\obj\Debug\netcoreapp2.1\7 - Condicionais.AssemblyInfo.cs
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\bin\Debug\netcoreapp2.1\7 - Condicionais.deps.json
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\bin\Debug\netcoreapp2.1\7 - Condicionais.runtimeconfig.json
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\bin\Debug\netcoreapp2.1\7 - Condicionais.runtimeconfig.dev.json
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\bin\Debug\netcoreapp2.1\7 - Condicionais.dll
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\bin\Debug\netcoreapp2.1\7 - Condicionais.pdb
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\obj\Debug\netcoreapp2.1\7 - Condicionais.dll
+C:\Users\higor.anjos\Desktop\Alura\5 - CaracteresETextos\7 - Condicionais\obj\Debug\netcoreapp2.1\7 - Condicionais.pdb

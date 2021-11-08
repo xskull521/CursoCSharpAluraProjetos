@@ -1,0 +1,7 @@
+C:\Users\higor.anjos\source\repos\ContinuacaoByteBank\02 - ContinuacaoByteBank\obj\Debug\02 - ContinuacaoByteBank.csprojAssemblyReference.cache
+C:\Users\higor.anjos\source\repos\ContinuacaoByteBank\02 - ContinuacaoByteBank\obj\Debug\02 - ContinuacaoByteBank.csproj.CoreCompileInputs.cache
+C:\Users\higor.anjos\source\repos\ContinuacaoByteBank\02 - ContinuacaoByteBank\bin\Debug\02 - ContinuacaoByteBank.exe.config
+C:\Users\higor.anjos\source\repos\ContinuacaoByteBank\02 - ContinuacaoByteBank\bin\Debug\02 - ContinuacaoByteBank.exe
+C:\Users\higor.anjos\source\repos\ContinuacaoByteBank\02 - ContinuacaoByteBank\bin\Debug\02 - ContinuacaoByteBank.pdb
+C:\Users\higor.anjos\source\repos\ContinuacaoByteBank\02 - ContinuacaoByteBank\obj\Debug\02 - ContinuacaoByteBank.exe
+C:\Users\higor.anjos\source\repos\ContinuacaoByteBank\02 - ContinuacaoByteBank\obj\Debug\02 - ContinuacaoByteBank.pdb

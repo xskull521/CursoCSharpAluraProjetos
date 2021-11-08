@@ -1,0 +1,6 @@
+C:\Users\higor.anjos\source\repos\AluraCSharp\P13 - ForEncadeado\bin\Debug\P13 - ForEncadeado.exe.config
+C:\Users\higor.anjos\source\repos\AluraCSharp\P13 - ForEncadeado\bin\Debug\P13 - ForEncadeado.exe
+C:\Users\higor.anjos\source\repos\AluraCSharp\P13 - ForEncadeado\bin\Debug\P13 - ForEncadeado.pdb
+C:\Users\higor.anjos\source\repos\AluraCSharp\P13 - ForEncadeado\obj\Debug\P13 - ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\higor.anjos\source\repos\AluraCSharp\P13 - ForEncadeado\obj\Debug\P13 - ForEncadeado.exe
+C:\Users\higor.anjos\source\repos\AluraCSharp\P13 - ForEncadeado\obj\Debug\P13 - ForEncadeado.pdb
